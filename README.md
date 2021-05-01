@@ -2,6 +2,11 @@
 
 Resources for UI/UX Designs
 
+# General
+
+- https://github.com/goabstract/Awesome-Design-Tools
+
+
 # Mockup.Prototyping Tools
 
 - [Invision](https://www.invisionapp.com/)
@@ -10,6 +15,29 @@ Resources for UI/UX Designs
 - [Sketch](https://www.sketch.com/)
 - [Axure XP](https://www.axure.com/)
 - [Webflow](https://webflow.com/)
+
+## InVision
+
+- https://www.invisionapp.com/
+- https://www.uistore.design/types/invision-studio/
+
+## Figma
+
+- https://www.figma.com/
+- https://www.figma.com/templates/
+- https://www.uistore.design/types/figma/
+- https://www.figmafreebies.com/
+
+## Adobe XD
+
+- https://www.adobe.com/products/xd.html
+- https://www.adobe.com/products/xd/features/ui-kits.html
+
+## Sketch
+
+- https://www.uistore.design/types/sketch/
+- https://icons8.com/lunacy
+
 
 # Adobe Alternatives
 
