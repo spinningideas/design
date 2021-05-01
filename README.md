@@ -7,7 +7,7 @@ Resources for UI/UX Designs
 - https://github.com/goabstract/Awesome-Design-Tools
 
 
-# Mockup.Prototyping Tools
+# Mockup/Prototyping Tools
 
 - [Invision](https://www.invisionapp.com/)
 - [Adobe XD](https://www.adobe.com/products/xd.html)
