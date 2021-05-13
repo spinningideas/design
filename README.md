@@ -6,7 +6,6 @@ Resources for UI/UX Designs
 
 - https://github.com/goabstract/Awesome-Design-Tools
 
-
 # Mockup/Prototyping Tools
 
 - [Invision](https://www.invisionapp.com/)
@@ -38,6 +37,14 @@ Resources for UI/UX Designs
 - https://www.uistore.design/types/sketch/
 - https://icons8.com/lunacy
 
+# Icons
+
+- https://icons.getbootstrap.com/
+- https://heroicons.com/
+- https://fonts.google.com/icons
+- https://fontawesome.com/
+- https://material-ui.com/components/material-icons/ + https://fonts.google.com/icons?selected=Material+Icons
+- https://materialdesignicons.com/
 
 # Adobe Alternatives
 
