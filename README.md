@@ -39,8 +39,10 @@ Resources for UI/UX Designs
 
 # Fonts
 
+- https://fonts.google.com/
+- [Lato](https://fonts.google.com/specimen/Lato)
 - [Open Sans](https://fonts.google.com/?query=open+sans)
-- [Futura] (https://fonts.adobe.com/fonts/futura-pt) + https://freefontsfamily.com/futura-font-family-free/
+- [Futura](https://fonts.adobe.com/fonts/futura-pt) + https://freefontsfamily.com/futura-font-family-free/
 
 # Icons
 
