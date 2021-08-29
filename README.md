@@ -37,6 +37,11 @@ Resources for UI/UX Designs
 - https://www.uistore.design/types/sketch/
 - https://icons8.com/lunacy
 
+# Fonts
+
+- [Open Sans](https://fonts.google.com/?query=open+sans)
+- [Futura] (https://fonts.adobe.com/fonts/futura-pt) + https://freefontsfamily.com/futura-font-family-free/
+
 # Icons
 
 - https://icons.getbootstrap.com/
