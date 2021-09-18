@@ -90,4 +90,9 @@ Resources for UI/UX Designs
  
 - [Audacity](https://www.audacityteam.org/)
 
+# Good UX Examples
+
+- https://designrevision.com/demo/shards-pro/
+
+
 
