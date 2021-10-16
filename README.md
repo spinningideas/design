@@ -44,6 +44,12 @@ Resources for UI/UX Designs
 - [Open Sans](https://fonts.google.com/?query=open+sans)
 - [Futura](https://fonts.adobe.com/fonts/futura-pt) + https://freefontsfamily.com/futura-font-family-free/
 
+# Palletes
+
+- https://materialui.co/colors/
+- https://tailwindcolor.com/
+- https://maketintsandshades.com/#2563eb
+
 # Icons
 
 - https://icons.getbootstrap.com/
