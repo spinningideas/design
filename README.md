@@ -44,11 +44,17 @@ Resources for UI/UX Designs
 - [Open Sans](https://fonts.google.com/?query=open+sans)
 - [Futura](https://fonts.adobe.com/fonts/futura-pt) + https://freefontsfamily.com/futura-font-family-free/
 
-# Palletes
+# Palettes
 
 - https://materialui.co/colors/
 - https://tailwindcolor.com/
+- https://tailwind.ink/
 - https://maketintsandshades.com/#2563eb
+- https://material.io/design/color/the-color-system.html#tools-for-picking-colors
+
+## Palette Colors
+
+- https://gist.github.com/kawanet/a880c83f06d6baf742e45ac9ac52af96
 
 # Icons
 
