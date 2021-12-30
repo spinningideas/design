@@ -6,6 +6,13 @@ Resources for UI/UX Designs
 
 - https://github.com/goabstract/Awesome-Design-Tools
 
+# Misc Tools
+
+- https://neumorphism.io/#e0e0e0
+- https://animista.net/
+- https://shadows.brumm.af/
+- https://getwaves.io/
+
 # Mockup/Prototyping Tools
 
 - [Invision](https://www.invisionapp.com/)
