@@ -72,6 +72,7 @@ Resources for UI/UX Designs
 - https://material-ui.com/components/material-icons/ + https://fonts.google.com/icons?selected=Material+Icons
 - https://materialdesignicons.com/
 - https://www.flaticon.com/icons
+- https://iconoir.com/
 
 # Adobe Alternatives
 
