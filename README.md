@@ -53,8 +53,8 @@ Resources for UI/UX Designs
 
 # Palettes
 
-- https://materialui.co/colors/
-- https://tailwindcolor.com/
+- https://materialui.co/colors/ (https://gist.github.com/kawanet/a880c83f06d6baf742e45ac9ac52af96)
+- https://tailwindcolor.com/ (https://github.com/tailwindlabs/tailwindcss/blob/master/src/public/colors.js)
 - https://tailwind.ink/
 - https://maketintsandshades.com/#2563eb
 - https://material.io/design/color/the-color-system.html#tools-for-picking-colors
