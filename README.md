@@ -59,9 +59,9 @@ Resources for UI/UX Designs
 - https://maketintsandshades.com/#2563eb
 - https://material.io/design/color/the-color-system.html#tools-for-picking-colors
 
-## Palette Colors
+## Color
 
-- https://gist.github.com/kawanet/a880c83f06d6baf742e45ac9ac52af96
+- https://hue.tools/?format=hex
 
 # Icons
 
