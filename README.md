@@ -14,6 +14,13 @@ Resources for UI/UX Designs
 - https://learnui.design/
 - https://www.nngroup.com/
 
+# Design Examples
+
+- https://dribbble.com/
+- https://getbootstrap.com/docs/5.2/examples/
+- https://designrevision.com/demo/shards-pro/
+- https://mui.com/material-ui/discover-more/showcase/
+
 # Misc Tools
 
 - https://neumorphism.io/#e0e0e0
@@ -119,9 +126,7 @@ Resources for UI/UX Designs
  
 - [Audacity](https://www.audacityteam.org/)
 
-# Good UX Examples
 
-- https://designrevision.com/demo/shards-pro/
 
 
 
