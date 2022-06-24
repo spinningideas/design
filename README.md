@@ -6,6 +6,14 @@ Resources for UI/UX Designs
 
 - https://github.com/goabstract/Awesome-Design-Tools
 
+# Design Systems
+
+- https://designsystemsrepo.com/
+- https://github.com/alexpate/awesome-design-systems
+- https://www.refactoringui.com/
+- https://learnui.design/
+- https://www.nngroup.com/
+
 # Misc Tools
 
 - https://neumorphism.io/#e0e0e0
