@@ -93,6 +93,8 @@ Resources for UI/UX Designs
 
 ## Photo Editing [Adobe Photoshop]
 
+- [Paint.net - Win Only](https://www.getpaint.net/)
+- [Pinta - Mac Only](https://www.pinta-project.com/)
 - [Affinity Photo](https://affinity.serif.com)
 - [Photopea](https://www.photopea.com/)
 - [Sumo Paint](https://www.sumopaint.com/)
