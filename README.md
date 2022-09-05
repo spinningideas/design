@@ -21,6 +21,10 @@ Resources for UI/UX Designs
 - https://designrevision.com/demo/shards-pro/
 - https://mui.com/material-ui/discover-more/showcase/
 
+# Interesting Designs
+
+- https://developers.google.com/ml-kit
+
 # Misc Tools
 
 - https://neumorphism.io/#e0e0e0
