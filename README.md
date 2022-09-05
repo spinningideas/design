@@ -6,6 +6,10 @@ Resources for UI/UX Designs
 
 - https://github.com/goabstract/Awesome-Design-Tools
 
+# Product Design
+
+- https://checkout.slidebean.com/product/lean-validation-board
+
 # Design Systems
 
 - https://designsystemsrepo.com/
@@ -13,6 +17,9 @@ Resources for UI/UX Designs
 - https://www.refactoringui.com/
 - https://learnui.design/
 - https://www.nngroup.com/
+- https://cloudscape.design/
+- https://moon.io/
+- https://saas-ui.dev/
 
 # Design Examples
 
@@ -24,6 +31,10 @@ Resources for UI/UX Designs
 # Interesting Designs
 
 - https://developers.google.com/ml-kit
+
+# Design Books
+
+- https://www.amazon.com/Make-So-Interaction-Lessons-Science/dp/1933820985
 
 # Misc Tools
 
