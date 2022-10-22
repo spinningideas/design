@@ -96,18 +96,19 @@ Resources for UI/UX Designs
 
 # Icons
 
-- https://icons.getbootstrap.com/
-- https://heroicons.com/
 - https://fonts.google.com/icons
-- https://fontawesome.com/
 - https://material-ui.com/components/material-icons/ + https://fonts.google.com/icons?selected=Material+Icons
 - https://materialdesignicons.com/
 - https://www.flaticon.com/icons
+- https://feathericons.com/
+- https://heroicons.com/
+- https://fontawesome.com/
 - https://iconoir.com/
 - https://tabler-icons.io/
 - https://iconsax.io/
 - https://icons.radix-ui.com/
 - https://iconify.design/
+- https://icons.getbootstrap.com/
 - https://thenounproject.com/
 
 # Adobe Alternatives
