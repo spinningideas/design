@@ -80,6 +80,7 @@ Resources for UI/UX Designs
 - [Lato](https://fonts.google.com/specimen/Lato)
 - [Open Sans](https://fonts.google.com/?query=open+sans)
 - [Futura](https://fonts.adobe.com/fonts/futura-pt) + https://freefontsfamily.com/futura-font-family-free/
+- [Public Sans](https://fonts.google.com/specimen/Public+Sans#styles)
 
 # Palettes
 
@@ -103,6 +104,11 @@ Resources for UI/UX Designs
 - https://materialdesignicons.com/
 - https://www.flaticon.com/icons
 - https://iconoir.com/
+- https://tabler-icons.io/
+- https://iconsax.io/
+- https://icons.radix-ui.com/
+- https://iconify.design/
+- https://thenounproject.com/
 
 # Adobe Alternatives
 
