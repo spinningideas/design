@@ -81,6 +81,8 @@ Resources for UI/UX Designs
 - [Open Sans](https://fonts.google.com/?query=open+sans)
 - [Futura](https://fonts.adobe.com/fonts/futura-pt) + https://freefontsfamily.com/futura-font-family-free/
 - [Public Sans](https://fonts.google.com/specimen/Public+Sans#styles)
+- https://www.nerdfonts.com/
+- https://vercel.com/font
 
 # Palettes
 
@@ -110,6 +112,12 @@ Resources for UI/UX Designs
 - https://iconify.design/
 - https://icons.getbootstrap.com/
 - https://thenounproject.com/
+
+## Map Icons
+
+- https://mapglyphs.com/
+- https://thenounproject.com/browse/creator/freevectormaps/icons/?p=1
+- https://freevectormaps.com/
 
 # Adobe Alternatives
 
