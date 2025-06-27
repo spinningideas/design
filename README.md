@@ -6,6 +6,127 @@ Resources for UI/UX Designs
 
 - https://github.com/goabstract/Awesome-Design-Tools
 
+Below are various sites for design inspiration and build out
+
+- https://github.com/spinningideas/resources/wiki/Design-UX-Templates
+- https://github.com/spinningideas/resources/wiki/Design-Resources
+- https://github.com/spinningideas/resources/wiki/Tailwind
+
+# Sites With Inspiring UX
+
+Actual sites to reference for inspiration - these are the sites that are examples to take direct inspiration from
+
+- https://appwrite.io/
+- https://mobbin.com/pricing
+- https://linear.app/
+- https://www.lindy.ai/
+- https://lutra.ai/
+- https://stitch.withgoogle.com/
+- https://www.itsdart.com/
+- https://stagewise.io/
+- https://www.polymet.ai/
+- https://developers.google.com/ml-kit
+
+## UX Inspiration Sites
+
+Sites with examples to reference for inspiration
+
+- https://mobbin.com/
+- https://21st.dev/
+- https://www.darkmodedesign.com/
+- https://webflow.com/certified-partners/browse
+- https://boilerplatelist.com/
+- https://land-book.com/
+- https://www.framer.com/gallery/
+- https://fontsinuse.com/
+- https://savee.it/
+- https://www.siteofsites.co
+- https://www.lapa.ninja/
+- https://ovo-feathers.webflow.io/
+- https://minimal.gallery/
+- https://godly.website/
+- https://www.landingfolio.com/
+- https://www.killerportfolio.com
+- https://www.unsection.com
+- https://onepagelove.com/
+- https://commercecream.com/
+- https://magicui.design/
+- https://tweakcn.com/
+- https://uiverse.io/
+- https://layers.to/explore
+- https://www.lapa.ninja/
+- https://aurachat.io/meng
+
+## UX Build Out Sites
+
+Sites that are allow you to build out UX using the tools and examples as reference for inspiration
+
+- https://lovable.dev/
+- https://bolt.dev/
+- https://aurachat.io
+- https://app.tempo.new/
+- https://databutton.com/
+- https://uxpilot.ai/
+- https://www.magicpatterns.com/
+- https://leap.new/
+- https://www.polymet.ai/
+- https://bubble.io/
+- https://boltstarter.com/
+- https://replit.com/
+- https://refine.dev/ai/
+
+## UI Widget Sites
+
+- https://uiverse.io/
+- https://layers.to/explore
+
+## UX Design Videos
+
+- https://www.youtube.com/@DesignCodeTeam
+- https://www.youtube.com/watch?v=ItsKfNAoqTU
+- https://www.youtube.com/watch?v=M-uUFLU9IFU
+
+## General Tools
+
+- https://www.notsobrightideas.com/
+- https://listarific.com/collections?&category=artificial-intelligence&collection=ai-tools
+- https://www.ninjatools.ai/playground
+
+## Agent Assisted Development
+
+- https://vibebuilders.ai/
+- https://dynamous.ai/
+- https://github.com/eyaltoledano/claude-task-master - see https://www.youtube.com/watch?v=IF1VuThI_50
+- https://www.aibuilderclub.com/
+- https://www.buildwithai.io/braindumper
+
+## Product Management (PRD)
+
+- https://github.com/bmadcode/BMAD-METHOD
+- https://www.promptengine.cc/free-tools/bolt-prompt-generator
+- https://www.ideabrowser.com/
+- https://www.chatprd.ai/
+- https://github.com/eyaltoledano/claude-task-master
+- https://www.botstradamus.app/
+- https://www.vibeguide.dev/
+
+## Product Management (PRD) Prompts
+
+- https://github.com/snarktank/ai-dev-tasks
+- https://github.com/bmadcode/BMAD-METHOD
+
+# System Prompts
+
+- https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+- https://github.com/jujumilk3/leaked-system-prompts/tree/main
+- https://github.com/asgeirtj/system_prompts_leaks
+- https://leaked-system-prompts.com/
+
+
+# UX Design Prompts
+
+- https://aurachat.io/learn/tips-for-prompting
+
 # Product Design
 
 - https://checkout.slidebean.com/product/lean-validation-board
@@ -21,35 +142,15 @@ Resources for UI/UX Designs
 - https://moon.io/
 - https://saas-ui.dev/
 
-# Design Examples
-
-- https://dribbble.com/
-- https://getbootstrap.com/docs/5.2/examples/
-- https://designrevision.com/demo/shards-pro/
-- https://mui.com/material-ui/discover-more/showcase/
-
-# Interesting Designs
-
-- https://developers.google.com/ml-kit
-
 # Design Books
 
 - https://www.amazon.com/Make-So-Interaction-Lessons-Science/dp/1933820985
 
-# Misc Tools
-
-- https://neumorphism.io/#e0e0e0
-- https://animista.net/
-- https://shadows.brumm.af/
-- https://getwaves.io/
-
 # Mockup/Prototyping Tools
 
 - [Invision](https://www.invisionapp.com/)
-- [Adobe XD](https://www.adobe.com/products/xd.html)
 - [Figma](https://www.figma.com/)
 - [Sketch](https://www.sketch.com/)
-- [Axure XP](https://www.axure.com/)
 - [Webflow](https://webflow.com/)
 
 ## InVision
@@ -63,11 +164,6 @@ Resources for UI/UX Designs
 - https://www.figma.com/templates/
 - https://www.uistore.design/types/figma/
 - https://www.figmafreebies.com/
-
-## Adobe XD
-
-- https://www.adobe.com/products/xd.html
-- https://www.adobe.com/products/xd/features/ui-kits.html
 
 ## Sketch
 
@@ -98,6 +194,7 @@ Resources for UI/UX Designs
 
 # Icons
 
+- https://lucide.dev/icons/
 - https://fonts.google.com/icons
 - https://material-ui.com/components/material-icons/ + https://fonts.google.com/icons?selected=Material+Icons
 - https://materialdesignicons.com/
@@ -110,7 +207,6 @@ Resources for UI/UX Designs
 - https://iconsax.io/
 - https://icons.radix-ui.com/
 - https://iconify.design/
-- https://icons.getbootstrap.com/
 - https://thenounproject.com/
 
 ## Map Icons
