@@ -175,6 +175,7 @@ Sites that are allow you to build out UX using the tools and examples as referen
 # Fonts
 
 - https://fonts.google.com/
+- https://fontsource.org/
 - [Lato](https://fonts.google.com/specimen/Lato)
 - [Open Sans](https://fonts.google.com/?query=open+sans)
 - [Futura](https://fonts.adobe.com/fonts/futura-pt) + https://freefontsfamily.com/futura-font-family-free/
