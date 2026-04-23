@@ -88,12 +88,13 @@ Sites that are allow you to build out UX using the tools and examples as referen
 
 ## General Tools
 
+- https://github.com/spinningideas/resources/wiki/AI-Assisted-Coding-Tools
 - https://www.notsobrightideas.com/
-- https://listarific.com/collections?&category=artificial-intelligence&collection=ai-tools
 - https://www.ninjatools.ai/playground
 
 ## Agent Assisted Development
 
+- https://github.com/spinningideas/resources/wiki/AI-Assisted-UI-Development
 - https://vibebuilders.ai/
 - https://dynamous.ai/
 - https://github.com/eyaltoledano/claude-task-master - see https://www.youtube.com/watch?v=IF1VuThI_50
@@ -148,15 +149,16 @@ Sites that are allow you to build out UX using the tools and examples as referen
 
 # Mockup/Prototyping Tools
 
-- [Invision](https://www.invisionapp.com/)
+- [Google Stitch](https://github.com/spinningideas/resources/wiki/AI-Tools-%E2%80%90-Google#stitch)
 - [Figma](https://www.figma.com/)
 - [Sketch](https://www.sketch.com/)
 - [Webflow](https://webflow.com/)
+- [Miro](https://miro.com/)
 
-## InVision
+## Miro
 
-- https://www.invisionapp.com/
-- https://www.uistore.design/types/invision-studio/
+- https://www.miro.com/
+- https://miro.com/templates/
 
 ## Figma
 
