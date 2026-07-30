@@ -1,6 +1,26 @@
 # Design Resources 
 
-Resources for UI/UX Designs
+Resources for UI/UX Designs including folders in this repo and links to external resources.
+
+# Tailwind
+
+See folder `tailwind` for more information and for examples css files you can use or import into https://tweakcn.com/.
+
+# Designs
+
+See folder `designs` for more information and for examples of design.md files you can use or import into https://getdesign.md/design-md.
+
+- https://getdesign.md/design-md
+
+# Wiki
+
+- https://github.com/spinningideas/resources/wiki#uiux-design
+
+# AI-Assisted-UI-Development
+
+- https://www.design-extractor.com/
+- https://github.com/spinningideas/resources/wiki/AI-Assisted-UI-Development
+
 
 # General
 
